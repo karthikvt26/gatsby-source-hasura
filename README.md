@@ -25,7 +25,7 @@ Boilerplate to get started with Gatsby, Hasura GraphQL engine as CMS and postgre
   ```
 - Run the app (go to the root of the repo):
   ```bash
-  HASURA_GRAPHQL_URL=https://gatsby-ser.herokuapp.com/v1alpha1/graphql npm run develop
+  HASURA_GRAPHQL_URL=https://hasura-graphql-2.herokuapp.com/v1alpha1/graphql npm run develop
   ```
 - Test the app
   Visit [http://localhost:8000](http://localhost:8000) to view the app
