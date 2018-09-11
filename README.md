@@ -1,6 +1,6 @@
 # gatsby-source-hasura
 
-Boilerplate to get started with Gatsby, Hasura GraphQL engine as CMS and postgres as database.
+Boilerplate to get started with Gatsby, Hasura GraphQL engine as CMS and postgres as database using the awesome plugin [wyze/gatsby-source-graphql](https://github.com/wyze/gatsby-source-graphql).
 
 # Running the app yourself
 
