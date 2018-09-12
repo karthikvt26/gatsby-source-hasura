@@ -23,14 +23,12 @@ Boilerplate to get started with Gatsby, Hasura GraphQL engine as CMS and postgre
 - Create `author` table:
   
   - Open Hasura console:
-
-  ```bash
-  hasura console
-  ```
+    ```bash
+    hasura console
+    ```
 
   - Navigate to `Data` section in the top nav bar and create a table as follows:
-
-  ![Create author table](./assets/add_table.jpg)
+    ![Create author table](./assets/add_table.jpg)
 
 - Insert sample data into `author` table:
 
